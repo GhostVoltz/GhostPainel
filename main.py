@@ -1611,7 +1611,7 @@ digite a opcao para ser redirecionado para a rede social''')
     if v == '1':
         system('clear')
         print('~Ghosty👻: ABRINDO WHATSAPP...')
-        system('termux-open-url https://wa.me/5551991609688')
+        system('termux-open-url https://wa.me/55')
         time.sleep(3)
         redes_sociaisPAINEL()
     if v == '2':
@@ -1640,7 +1640,7 @@ digite a opcao para ser redirecionado para a rede social''')
     if v == '1':
         system('clear')
         print('~Ghosty👻: ABRINDO WHATSAPP...')
-        system('termux-open-url https://wa.me/5551991609688')
+        system('termux-open-url https://wa.me/55')
         time.sleep(3)
         redes_sociaisCONS()
     if v == '2':
@@ -1670,7 +1670,7 @@ digite a opcao para ser redirecionado para a rede social''')
     if v == '1':
         system('clear')
         print('~Ghosty👻: ABRINDO WHATSAPP...')
-        system('termux-open-url https://wa.me/5551991609688')
+        system('termux-open-url https://wa.me/88')
         time.sleep(3)
         redes_sociais()
     if v == '2':
